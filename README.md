@@ -1,16 +1,14 @@
-# Leaflet Maps with Google Sheets
-Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
-
-![Preview](preview.jpg)
+# Give a Rep a Book!
+As part of the 'I think you're wrong but I'm listening' launch efforts, we built this map of donated books and representative who still need one from the Google sheets data effort collected and spearheaded by (?)
 
 ## Live links (replace with your own)
-- Leaflet Map https://datavizforall.github.io/leaflet-maps-with-google-sheets/index.html
-- Google Sheets template https://docs.google.com/spreadsheets/d/1ZxvU8eGyuN9M8GxTU9acKVJv70iC3px_m3EVFsOHN9g/edit#gid=0
+Leaflet based Map https://mepearson.github.io/leaflet-maps-with-google-sheets/
+Google Sheets template https://docs.google.com/spreadsheets/d/1ZxvU8eGyuN9M8GxTU9acKVJv70iC3px_m3EVFsOHN9g/edit#gid=0
 
-## Create your own
-- See video with step-by-step tutorial in *Data Visualization for All* https://datavizforall.org/leaflet-maps-with-google-sheets.html
 
 ## Credits (and licenses)
+This project built from the template provided at https://datavizforall.org/leaflet-maps-with-google-sheets.html.  Credits and licenses listed below are from the original forked document.
+
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College CT, using a [Google Sheets](https://www.google.com/sheets/about/) template, with these open-source components:
 - Inspired by: Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause)
 - Leaflet v1.0.3 https://leafletjs.com (BSD-2-Clause)
@@ -30,6 +28,3 @@ Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](h
 - DataTables (v1.10.13) by SpryMedia Ltd. https://datatables.net (MIT)
 - [Leaflet Control Geocoder](https://github.com/perliedman/leaflet-control-geocoder) by @perliedman (BSD 2-Clause)
 
-## Please submit any pull requests to our DEV repo
-- Leaflet Map FOR DEVELOPMENT https://jackdougherty.github.io/leaflet-maps-with-google-sheets-dev/index.html
-- Google Sheet FOR DEVELOPMENT https://docs.google.com/spreadsheets/d/1_xjrH3gSImzRKqIkhRAqpAAMjH387yaBWfGbidkKtqM/
