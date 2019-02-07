@@ -3,7 +3,7 @@ As part of the 'I think you're wrong but I'm listening' launch efforts, we built
 
 ## Live links (replace with your own)
 Leaflet based Map https://mepearson.github.io/leaflet-maps-with-google-sheets/
-Google Sheets template https://docs.google.com/spreadsheets/d/1ZxvU8eGyuN9M8GxTU9acKVJv70iC3px_m3EVFsOHN9g/edit#gid=0
+Google Sheet https://docs.google.com/spreadsheets/d/1MF1-2mzORuFRDAbIwCAsbp7SwmfnnrMnMyiITiOWdUY/edit#gid=0
 
 
 ## Credits (and licenses)
